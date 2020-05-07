@@ -1,6 +1,6 @@
 # nrdp
 
-A Naive ride duration prediction program
+A **N**aive **R**ide **D**uration **P**rediction program
 
 ## Build and Run
 
